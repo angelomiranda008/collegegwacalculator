@@ -12,7 +12,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class SignUp extends Register {
 
-    private static final String path = "C:\\JavaProjects\\NetbeansProjects\\student_data.xlsx";
+    private static final String path = "C:\\Programs\\JavaProjects\\NetbeansProjects\\student_data.xlsx";
 
     public SignUp(String username, String password, String confirmPass) {
         super(username, password, confirmPass);
