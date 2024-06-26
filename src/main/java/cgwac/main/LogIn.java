@@ -6,7 +6,7 @@ import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class LogIn extends Register {
-    private static final String FILE_PATH = "C:\\JavaProjects\\NetbeansProjects\\student_data.xlsx";
+    private static final String FILE_PATH = "C:\\Programs\\JavaProjects\\NetbeansProjects\\student_data.xlsx";
     final int columnPassword = 1;
     final int columnUsername = 0; 
 
